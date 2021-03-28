@@ -1,0 +1,30 @@
+.header{
+    text-align: center;
+}
+.header img{
+    width: 18rem;
+}
+.nav {
+    background-color: black;
+    padding: 0.5rem;
+}
+.nav a {
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem;
+    margin-left: 1.5rem;
+    transition: all 0.5s;
+}
+.nav a:hover{
+    background-color: gray;
+}
+.search{
+    background-color: rgb(68, 68, 68);
+    padding: 0.5rem;
+}
+input{
+    width: 70%;
+    margin-left: 1rem;
+    padding: 0.25rem 0;
+}
